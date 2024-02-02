@@ -1,4 +1,10 @@
-## Sales Report :
+# Sales Analytics :
+
+## Tools used:
+
+- **Microsoft Excel**
+
+## Sales report:
 
 - **Project objective:** 
 
